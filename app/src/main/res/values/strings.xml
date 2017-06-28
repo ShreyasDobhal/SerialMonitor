@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Measure It</string>
+    <string name="action_settings">Settings</string>
+    <string name="baud_prompt">Choose Baudrate</string>
+    <string-array name="baud_arrays">
+        <item>300 baud</item>
+        <item>1200 baud</item>
+        <item>2400 baud</item>
+        <item>4800 baud</item>
+        <item>9600 baud</item>
+        <item>14400 baud</item>
+        <item>19200 baud</item>
+        <item>28800 baud</item>
+        <item>38400 baud</item>
+        <item>57600 baud</item>
+        <item>115200 baud</item>
+    </string-array>
+</resources>
